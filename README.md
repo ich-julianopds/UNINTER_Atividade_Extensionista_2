@@ -53,7 +53,7 @@ O projeto utilizou uma **cartilha digital** como apoio à apresentação on-line
 ## Estrutura do repositório
 
 ```text
-atividade-extensionista-ii/
+UNINTER_Atividade_Extensionista_2/
 ├── README.md
 └── cartilha/
     └── cartilha-educativa.pdf
